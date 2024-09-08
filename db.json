@@ -1,0 +1,54 @@
+{
+    "products":[
+        {
+            "id":1,
+            "product_name":"BLACK CROSS BAG",
+            "product_price":299
+        },
+        {
+            "id":2,
+            "product_name":"Rimbow Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":3,
+            "product_name":"Red Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":4,
+            "product_name":"Blue And Pink Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":5,
+            "product_name":"Red Cross Bag",
+            "product_price":299
+        },
+        {
+            "id":6,
+            "product_name":"Off White Cross Bag",
+            "product_price":299
+        },
+        {
+            "id":7,
+            "product_name":"Dark Blue Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":8,
+            "product_name":"Baby Blue Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":9,
+            "product_name":"Orange And Blue Nike Air Max",
+            "product_price":299
+        },
+        {
+            "id":10,
+            "product_name":"Blue Swade Nike Sneakers",
+            "product_price":499
+        }
+    ]
+}
